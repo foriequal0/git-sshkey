@@ -6,7 +6,7 @@ Handy addon to handle per-repository ssh-key.
 ## How to use
 Download script
 ```
-wget https://raw.githubusercontent.com/foriequal0/git-sshkey/master/gistfile1.sh -O ~/bin/git-sshkey
+wget https://raw.githubusercontent.com/foriequal0/git-sshkey/master/git-sshkey.sh -O ~/bin/git-sshkey
 chmod +x ~/bin/git-sshkey
 ```
 
