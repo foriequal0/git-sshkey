@@ -27,8 +27,8 @@ git remote set-url ssh://git@my-remote-git.com:account/my-proj.git
 
 Use
 ```
-git ssh push
-git ssh pull
+git sshkey push
+git sshkey pull
 ```
 
 ## Disclaimer
